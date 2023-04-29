@@ -30,6 +30,10 @@ ol {
     margin-left: 20px;
 }
 
+.italic {
+    font-style: italic;
+}
+
 /* Header */
 
 #header {
